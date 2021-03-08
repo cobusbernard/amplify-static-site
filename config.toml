@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Unicorn Inc - Smart Factories Workshop"
+theme = "hugo-theme-learn"
+uglyurls = true
